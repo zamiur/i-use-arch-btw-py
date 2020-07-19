@@ -13,4 +13,4 @@ arch arch btw linux linux linux linux linux linux btw linux linux linux linux
 linux linux linux linux btw linux the linux linux linux i arch use way i btw
 the linux linux linux i arch use way i linux btw""")
 
-hello()
+print(hello())
